@@ -15,4 +15,5 @@ Flask
 Flask-Cors
 dagshub
 seaborn
+imbalanced-learn
 -e .
